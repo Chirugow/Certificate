@@ -18,23 +18,7 @@ and real-world analytics projects.
 
 ## 📜 Certifications
 - **Business Analyst Certification – ExcelR**  
-  (BACertificate.pdf)
-
----
-
-## 📁 Projects
-
-### 🔹 Crowdfunding Analytics Dashboard
-**Tools:** Excel, Power BI, Tableau, MySQL  
-- Cleaned and transformed crowdfunding data
-- Built interactive dashboards to track funding trends
-- Analyzed success rate by category, region, and goal amount
-- Provided insights to support business decision-making
-
-📸 Dashboard Preview:  
-(Add screenshots inside project folder)
-
-➡️ [View Project](projects/crowdfunding-analytics)
+  📄 [View Certificate](BACertificate.pdf)
 
 ---
 
