@@ -18,7 +18,7 @@ and real-world analytics projects.
 
 ## 📜 Certifications
 - **Business Analyst Certification – ExcelR**  
-  📄 [View Certificate](BA_Certificate.pdf)
+  📄 [View Certificate](BACertificate.pdf)
 
 ---
 
