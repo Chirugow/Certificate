@@ -20,6 +20,9 @@ and real-world analytics projects.
 - **Business Analyst Certification – ExcelR**  
   📄 [View Certificate](BACertificate.pdf)
 
+  **State level Seminar Certification – ExcelR**  
+  📄 [View Certificate](Certificate.pdf)
+
 ---
 
 ## 📫 Contact
