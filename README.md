@@ -5,7 +5,7 @@
 
 ![IBM Data Analysis Using Python Certificate](IBMCertificate.png)
 
---&--
+---
 
 ![IBM Data Analysis Using Python Certificate](IBMCertification.png)
 
