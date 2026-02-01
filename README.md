@@ -5,7 +5,7 @@
 
 ![IBM Data Analysis Using Python Certificate](IBMCertificate.png)
 &
-[IBM Data Analysis Using Python Certificate](IBMCertification.png)
+![IBM Data Analysis Using Python Certificate](IBMCertification.png)
 
 This IBM-certified program focuses on Python-based data analysis, covering data cleaning, exploratory data analysis (EDA), and data visualization using industry-standard libraries.
 
