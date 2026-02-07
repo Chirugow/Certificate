@@ -19,7 +19,7 @@ This IBM-certified program focuses on Python-based data analysis, covering data 
 - Data Visualization
 
 🔗 Credential Verification:  
-https://www.credly.com/badges/039760b0-b603-4006-b914-56a18d3f3154
+[https://courses.cognitiveclass.ai/certificates/8b5fee56e6de4b61848ba36de470e1fc]
 
 ---
 
@@ -36,3 +36,19 @@ This certification demonstrates proficiency in business analysis, MIS reporting,
 - Power BI
 - Tableau
 - Business Analytics
+---
+
+## Intoduction to Data Analytics Certification — SkillUp / Simplilearn
+**Issued:** February 2026  
+
+![Intoduction to Data Analytics Certification](SkillupCertificate.png)
+
+Completed Introduction to Data Analytics course covering data fundamentals, analytics lifecycle, types of data, and real-world business use cases for data-driven decision-making.
+
+**Skills Covered:**
+- Data Analytics Fundamentals
+- Data-Driven Decision Making
+- Types of Data (Structured & Unstructured)
+- Analytics Lifecycle
+- Descriptive Analytics
+- Business Analytics 
