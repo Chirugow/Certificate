@@ -23,6 +23,25 @@ This IBM-certified program focuses on Python-based data analysis, covering data 
 
 ---
 
+## Data Analytics Essentials — Cisco Networking Academy  
+**Issued:** February 2026  
+
+![Data Analytics Essentials Certificate](DataAnalyticsCertificate.png)
+
+Completed Cisco Data Analytics Essentials course covering core analytics concepts, data lifecycle, and business analytics foundations.
+
+**Skills Covered:**
+- Data Analytics Fundamentals  
+- Data Lifecycle  
+- Business Analytics Concepts  
+- Data-Driven Decision Making  
+- Analytical Thinking  
+
+🔗 Credential Verification:  
+[https://www.credly.com/badges/e9b30541-f63f-46d5-9276-07dc306a6058]
+
+---
+
 ## Business Analyst & Data Analytics Certification — ExcelR
 **Issued:** November 2025  
 
